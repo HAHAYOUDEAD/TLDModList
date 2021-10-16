@@ -1,0 +1,55 @@
+{
+	"author": "Waltz",
+	"authorURL": "https://github.com/HAHAYOUDEAD",
+	"mods": [{
+			"name": "PastimeReading",
+			"aliases": [],
+			"version": "1.1.0",
+			"updated": "2021-10-07",
+			"description": "Adds a readable, customizable book with animations and stuff.<br><br><a href='https://youtu.be/MIUvKW89SgI' target='_blank'>Showcasing video</a>.<br><br>Mod is installed by extracting .zip into .../Mods/",
+			"modURL": "https://github.com/HAHAYOUDEAD/PastimeReading",
+			"downloadURL": "https://github.com/HAHAYOUDEAD/PastimeReading/releases/latest/download/pastimeReading.zip",
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"testedon": {
+				"tldversion": "1.95",
+				"mlversion": "0.4.3"
+			},
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"issues": "",
+				"notes": ""
+			}
+		},
+		{
+			"name": "FoodsByCalorieWaltz",
+			"aliases": [],
+			"version": "0.9.3",
+			"updated": "2021-10-16",
+			"description": "Adds 19 unique, delicious food items.<br><br>It's a standard ModComponent pack, installed by dropping it into .../Mods/",
+			"modURL": "https://github.com/HAHAYOUDEAD/FoodsByCalorieWaltz",
+			"downloadURL": "https://github.com/HAHAYOUDEAD/FoodsByCalorieWaltz/releases/latest/download/FoodsByCalorieWaltz.modcomponent",
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"testedon": {
+				"tldversion": "1.95",
+				"mlversion": "0.4.3"
+			},
+			"dependencies": [
+				"ModComponent"
+			],
+			"status": {
+				"working": true,
+				"issues": "",
+				"notes": ""
+			}
+		}
+	]
+}
