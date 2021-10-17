@@ -3,6 +3,7 @@
 	"authorURL": "https://github.com/HAHAYOUDEAD",
 	"mods": [{
 			"name": "PastimeReading",
+			"displayName": "Pastime Reading",
 			"aliases": [],
 			"version": "1.1.0",
 			"updated": "2021-10-07",
@@ -28,6 +29,7 @@
 		},
 		{
 			"name": "FoodsByCalorieWaltz",
+			"displayName": "Foods by 'Calorie Waltz'",
 			"aliases": [],
 			"version": "0.9.3",
 			"updated": "2021-10-16",
