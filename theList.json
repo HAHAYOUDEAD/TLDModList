@@ -15,7 +15,7 @@
 				"downloads": []
 			},
 			"testedon": {
-				"tldversion": "1.95",
+				"tldversion": "1.99",
 				"mlversion": "0.4.3"
 			},
 			"dependencies": [
@@ -31,17 +31,17 @@
 			"name": "FoodsByCalorieWaltz",
 			"displayName": "Foods by 'Calorie Waltz'",
 			"aliases": [],
-			"version": "0.9.4",
-			"updated": "2021-11-11",
-			"description": "Adds 19 unique, delicious food items.<br><br>It's a standard ModComponent pack, installed by dropping it into .../Mods/",
+			"version": "0.9.6",
+			"updated": "2021-12-31",
+			"description": "Adds 20+ unique, delicious food and beverage items.<br><br>Installed by unpacking it into .../Mods/",
 			"modURL": "https://github.com/HAHAYOUDEAD/FoodsByCalorieWaltz",
-			"downloadURL": "https://github.com/HAHAYOUDEAD/FoodsByCalorieWaltz/releases/latest/download/FoodsByCalorieWaltz.modcomponent",
+			"downloadURL": "https://github.com/HAHAYOUDEAD/FoodsByCalorieWaltz/releases/latest/download/FoodsByCalorieWaltz.zip",
 			"updater": {
 				"enable": true,
 				"downloads": []
 			},
 			"testedon": {
-				"tldversion": "1.95",
+				"tldversion": "1.99",
 				"mlversion": "0.4.3"
 			},
 			"dependencies": [
@@ -68,7 +68,7 @@
 				"downloads": []
 			},
 			"testedon": {
-				"tldversion": "1.95",
+				"tldversion": "1.99",
 				"mlversion": "0.4.3"
 			},
 			"dependencies": [
