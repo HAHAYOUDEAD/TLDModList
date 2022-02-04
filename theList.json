@@ -45,7 +45,8 @@
 				"mlversion": "0.4.3"
 			},
 			"dependencies": [
-				"ModComponent"
+				"ModComponent",
+				"ModSettings"
 			],
 			"status": {
 				"working": true,
