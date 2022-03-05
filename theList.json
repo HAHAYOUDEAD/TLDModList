@@ -31,9 +31,9 @@
 			"name": "FoodsByCalorieWaltz",
 			"displayName": "Foods by 'Calorie Waltz'",
 			"aliases": [],
-			"version": "0.9.6.1",
-			"updated": "2022-01-01",
-			"description": "Adds 20+ unique, delicious food and beverage items.<br><br>Installed by unpacking it into .../Mods/",
+			"version": "0.9.6.3",
+			"updated": "2022-03-05",
+			"description": "Adds 20+ unique, delicious food and beverage items. Now with options and collectibles(optional)!<br><br>Installed by unpacking it into .../Mods/",
 			"modURL": "https://github.com/HAHAYOUDEAD/FoodsByCalorieWaltz",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/FoodsByCalorieWaltz/releases/latest/download/FoodsByCalorieWaltz.zip",
 			"updater": {
