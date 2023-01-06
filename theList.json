@@ -80,6 +80,33 @@
 				"issues": "",
 				"notes": ""
 			}
+		},
+		{
+			"name": "Jump",
+			"displayName": "Jump",
+			"aliases": [],
+			"version": "1.0",
+			"updated": "2023-01-07",
+			"description": "Allows you to jump. Also has some settings. Installed by dropping it into .../Mods/",
+			"modURL": "https://github.com/HAHAYOUDEAD/Jump",
+			"downloadURL": "https://github.com/HAHAYOUDEAD/Jump/releases/latest/download/Jump.dll",
+			"previousAuthors": "<a href='https://github.com/DigitalzombieTLD' target='_blank'>DigitalZombie</a>",
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"testedon": {
+				"tldversion": "2.06",
+				"mlversion": "0.6.0"
+			},
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"issues": "",
+				"notes": ""
+			}
 		}
 	]
 }
