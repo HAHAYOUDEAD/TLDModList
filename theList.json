@@ -1,112 +1,222 @@
 {
+	"version": "2",
 	"author": "Waltz",
 	"authorURL": "https://github.com/HAHAYOUDEAD",
-	"mods": [{
+	"supportURL": "paypal.me/FardyHernandez",
+	"mods": [
+		{
+			"type": "mod",
+			"version": "1.2.0",
 			"name": "PastimeReading",
 			"displayName": "Pastime Reading",
-			"aliases": [],
-			"version": "1.2.0",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2021-08-30",
 			"updated": "2021-11-24",
-			"description": "Adds a readable, customizable book with animations and stuff.<br><br><a href='https://youtu.be/MIUvKW89SgI' target='_blank'>Showcasing video</a>. <a href='https://www.youtube.com/watch?v=q_k4YNhaY5A' target='_blank'>Detailed review(has subtitles)</a>.<br><br>Mod is installed by extracting .zip into .../Mods/",
-			"modURL": "https://github.com/HAHAYOUDEAD/PastimeReading",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/PastimeReading/releases/latest/download/pastimeReading.zip",
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"testedon": {
-				"tldversion": "1.99",
-				"mlversion": "0.4.3"
-			},
+			"modURL": "https://github.com/HAHAYOUDEAD/PastimeReading",
+			"description": "Adds a readable, customizable book with animations and stuff.<br><br><a href='https://youtu.be/MIUvKW89SgI' target='_blank'>Showcasing video</a>. <a href='https://www.youtube.com/watch?v=q_k4YNhaY5A' target='_blank'>Detailed review(has subtitles)</a>.<br><br>Mod is installed by extracting .zip into .../Mods/",
+			"tags": "late game, reading, book",
+			"categories": [
+				"Gameplay",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://i.imgur.com/hTuRbzv.png"
+			],
 			"dependencies": [
 				"ModSettings"
 			],
 			"status": {
-				"working": true,
-				"issues": "",
-				"notes": ""
-			}
-		},
-		{
-			"name": "FoodsByCalorieWaltz",
-			"displayName": "Foods by 'Calorie Waltz'",
-			"aliases": [],
-			"version": "1.0.1",
-			"updated": "2022-09-10",
-			"description": "Adds 20+ unique, delicious <a href='https://raw.githubusercontent.com/HAHAYOUDEAD/FoodsByCalorieWaltz/main/Images/allRender2.png' target='_blank'>food and beverage items</a>. Insludes cute collectibles and handy settings!<br><br>Installed by unpacking it into .../Mods/",
-			"modURL": "https://github.com/HAHAYOUDEAD/FoodsByCalorieWaltz",
-			"downloadURL": "https://github.com/HAHAYOUDEAD/FoodsByCalorieWaltz/releases/latest/download/FoodsByCalorieWaltz.zip",
-			"updater": {
-				"enable": true,
-				"downloads": []
+				"working": false,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
 			},
 			"testedon": {
 				"tldversion": "2.02",
-				"mlversion": "0.5.4"
+				"mlversion": "0.5.7"
 			},
-			"dependencies": [
-				"ModComponent",
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"issues": "",
-				"notes": ""
-			}
-		},
-		{
-			"name": "NorthfolkClothingPack",
-			"displayName": "Northfolk Clothing Pack",
-			"aliases": [],
-			"version": "1.0.2",
-			"updated": "2021-11-01",
-			"description": "Adds 2 previously seen + 3 brand new, inspired by northern folk, craftable clothes.<br><br>It's a standard ModComponent pack, installed by dropping it into .../Mods/",
-			"modURL": "https://github.com/HAHAYOUDEAD/NorthfolkClothingPack",
-			"downloadURL": "https://github.com/HAHAYOUDEAD/NorthfolkClothingPack/releases/latest/download/NorthfolkClothingPack.modcomponent",
-			"previousAuthors": "<a href='https://github.com/nbakulev' target='_blank'>nbakulev</a>",
 			"updater": {
 				"enable": true,
 				"downloads": []
 			},
-			"testedon": {
-				"tldversion": "1.99",
-				"mlversion": "0.4.3"
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.1",
+			"name": "FoodsByCalorieWaltz",
+			"displayName": "Foods by 'Calorie Waltz'",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2022-09-10",
+			"downloadURL": "https://github.com/HAHAYOUDEAD/FoodsByCalorieWaltz/releases/latest/download/FoodsByCalorieWaltz.zip",
+			"modURL": "https://github.com/HAHAYOUDEAD/FoodsByCalorieWaltz",
+			"description": "Adds 20+ unique, delicious <a href='https://raw.githubusercontent.com/HAHAYOUDEAD/FoodsByCalorieWaltz/main/Images/allRender2.png' target='_blank'>food and beverage items</a>. Insludes cute collectibles and handy settings!<br><br>Installed by unpacking it into .../Mods/",
+			"tags": "food, collectibles, candle",
+			"categories": [
+				"Food"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://i.imgur.com/KHMUIGA.png"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent"
+			],
+			"status": {
+				"working": false,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
 			},
+			"testedon": {
+				"tldversion": "2.02",
+				"mlversion": "0.5.7"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.2",
+			"name": "NorthfolkClothingPack",
+			"displayName": "Northfolk Clothing Pack",
+			"author": "",
+			"previousAuthors": "<a href='https://github.com/nbakulev' target='_blank'>nbakulev</a>",
+			"released": "",
+			"updated": "2021-11-01",
+			"downloadURL": "https://github.com/HAHAYOUDEAD/NorthfolkClothingPack/releases/latest/download/NorthfolkClothingPack.modcomponent",
+			"modURL": "https://github.com/HAHAYOUDEAD/NorthfolkClothingPack",
+			"description": "Adds 2 previously seen + 3 brand new, inspired by northern folk, craftable clothes.<br><br>It's a standard ModComponent pack, installed by dropping it into .../Mods/",
+			"tags": "clothing, clothes, lore friendly, crafting",
+			"categories": [
+				"Clothing"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://i.imgur.com/cBCe5x0.png"
+			],
 			"dependencies": [
 				"ModComponent"
 			],
 			"status": {
-				"working": true,
-				"issues": "",
-				"notes": ""
-			}
-		},
-		{
-			"name": "Jump",
-			"displayName": "Jump",
-			"aliases": [],
-			"version": "1.0",
-			"updated": "2023-01-07",
-			"description": "Allows you to jump. Also has some settings. Installed by dropping it into .../Mods/",
-			"modURL": "https://github.com/HAHAYOUDEAD/Jump",
-			"downloadURL": "https://github.com/HAHAYOUDEAD/Jump/releases/latest/download/Jump.dll",
-			"previousAuthors": "<a href='https://github.com/DigitalzombieTLD' target='_blank'>DigitalZombie</a>",
+				"working": false,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.02",
+				"mlversion": "0.5.7"
+			},
 			"updater": {
 				"enable": true,
 				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0",
+			"name": "Jump",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "<a href='https://github.com/DigitalzombieTLD' target='_blank'>DigitalZombie</a>",
+			"released": "2023-01-07",
+			"updated": "2023-01-07",
+			"downloadURL": "https://github.com/HAHAYOUDEAD/Jump/releases/latest/download/Jump.dll",
+			"modURL": "https://github.com/HAHAYOUDEAD/Jump",
+			"description": "Allows you to jump. Also has some settings. Installed by dropping it into .../Mods/",
+			"tags": "jumping, jump",
+			"categories": [
+				"Gameplay",
+				"Cheats"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
 			},
 			"testedon": {
 				"tldversion": "2.06",
 				"mlversion": "0.6.0"
 			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "0.5.1",
+			"name": "Personality",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2022-11-25",
+			"updated": "2023-01-07",
+			"downloadURL": "https://github.com/HAHAYOUDEAD/Personality/releases/download/v0.5.1-beta/Personality.zip",
+			"modURL": "https://github.com/HAHAYOUDEAD/Personality",
+			"description": "",
+			"tags": "first person, hands, gloves, clothing, clothes",
+			"categories": [
+				"Clothing",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://i.imgur.com/Al4UT3P.png"
+			],
 			"dependencies": [
 				"ModSettings"
 			],
 			"status": {
 				"working": true,
-				"issues": "",
-				"notes": ""
-			}
+				"beta": true,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.06",
+				"mlversion": "0.6.0"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
