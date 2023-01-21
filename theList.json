@@ -25,13 +25,14 @@
 				"vanilla"
 			],
 			"images": [
-				"https://i.imgur.com/hTuRbzv.png"
+				"https://imgur.com/JlQmwOh.png",
+				"https://i.imgur.com/ji8mHV2.png"
 			],
 			"dependencies": [
 				"ModSettings"
 			],
 			"status": {
-				"working": false,
+				"working": true,
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
@@ -67,14 +68,15 @@
 				"vanilla"
 			],
 			"images": [
-				"https://i.imgur.com/KHMUIGA.png"
+				"https://i.imgur.com/95l6Sp1.png",
+				"https://i.imgur.com/i3JowEX.png"
 			],
 			"dependencies": [
 				"ModSettings",
 				"ModComponent"
 			],
 			"status": {
-				"working": false,
+				"working": true,
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
@@ -110,13 +112,13 @@
 				"vanilla"
 			],
 			"images": [
-				"https://i.imgur.com/cBCe5x0.png"
+				"https://i.imgur.com/aFOiZM7.png"
 			],
 			"dependencies": [
 				"ModComponent"
 			],
 			"status": {
-				"working": false,
+				"working": true,
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
@@ -153,7 +155,9 @@
 				"vanilla",
 				"tftft"
 			],
-			"images": [],
+			"images": [
+				"https://imgur.com/4PXr5K9.png"
+			],
 			"dependencies": [
 				"ModSettings"
 			],
@@ -185,7 +189,7 @@
 			"updated": "2023-01-07",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/Personality/releases/download/v0.5.1-beta/Personality.zip",
 			"modURL": "https://github.com/HAHAYOUDEAD/Personality",
-			"description": "",
+			"description": "Lets you customize your character: replace textures and change outfit",
 			"tags": "first person, hands, gloves, clothing, clothes",
 			"categories": [
 				"Clothing",
@@ -196,7 +200,8 @@
 				"tftft"
 			],
 			"images": [
-				"https://i.imgur.com/Al4UT3P.png"
+				"https://imgur.com/yvRoWBz.png",
+				"https://imgur.com/OBg93BG.png"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -213,7 +218,7 @@
 				"mlversion": "0.6.0"
 			},
 			"updater": {
-				"enable": false,
+				"enable": true,
 				"downloads": []
 			},
 			"aliases": []
