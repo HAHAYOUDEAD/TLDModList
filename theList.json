@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.2.0",
+			"version": "1.2.2",
 			"name": "PastimeReading",
 			"displayName": "Pastime Reading",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2021-08-30",
-			"updated": "2021-11-24",
-			"downloadURL": "https://github.com/HAHAYOUDEAD/PastimeReading/releases/latest/download/pastimeReading.zip",
+			"updated": "2023-03-02",
+			"downloadURL": "https://github.com/HAHAYOUDEAD/PastimeReading/releases/download/v1.2.2-beta/pastimeReading.zip",
 			"modURL": "https://github.com/HAHAYOUDEAD/PastimeReading",
 			"description": "Adds a readable, customizable book with animations and stuff.<br><br><a href='https://youtu.be/MIUvKW89SgI' target='_blank'>Showcasing video</a>. <a href='https://www.youtube.com/watch?v=q_k4YNhaY5A' target='_blank'>Detailed review(has subtitles)</a>.<br><br>Mod is installed by extracting .zip into .../Mods/",
 			"tags": "late game, reading, book",
@@ -22,7 +22,8 @@
 				"Misc"
 			],
 			"gameversion": [
-				"vanilla"
+				"vanilla",
+				"tftft"
 			],
 			"images": [
 				"https://imgur.com/JlQmwOh.png",
@@ -33,14 +34,14 @@
 			],
 			"status": {
 				"working": true,
-				"beta": false,
+				"beta": true,
 				"patchnotes": "",
 				"notes": "",
-				"issues": ""
+				"issues": "- Non-latin text take a long while to load \n- No sounds"
 			},
 			"testedon": {
-				"tldversion": "2.02",
-				"mlversion": "0.5.7"
+				"tldversion": "2.06",
+				"mlversion": "0.6.0"
 			},
 			"updater": {
 				"enable": true,
@@ -55,7 +56,7 @@
 			"displayName": "Foods by 'Calorie Waltz'",
 			"author": "",
 			"previousAuthors": "",
-			"released": "",
+			"released": "2021-09-12",
 			"updated": "2022-09-10",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/FoodsByCalorieWaltz/releases/latest/download/FoodsByCalorieWaltz.zip",
 			"modURL": "https://github.com/HAHAYOUDEAD/FoodsByCalorieWaltz",
@@ -99,7 +100,7 @@
 			"displayName": "Northfolk Clothing Pack",
 			"author": "",
 			"previousAuthors": "<a href='https://github.com/nbakulev' target='_blank'>nbakulev</a>",
-			"released": "",
+			"released": "2021-10-26",
 			"updated": "2021-11-01",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/NorthfolkClothingPack/releases/latest/download/NorthfolkClothingPack.modcomponent",
 			"modURL": "https://github.com/HAHAYOUDEAD/NorthfolkClothingPack",
