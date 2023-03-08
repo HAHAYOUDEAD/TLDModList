@@ -223,6 +223,50 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0",
+			"name": "SillyMod",
+			"displayName": "Silly Mod",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2023-03-07",
+			"updated": "2023-03-08",
+			"downloadURL": "https://github.com/HAHAYOUDEAD/SillyMod/releases/latest/download/SillyMod.dll",
+			"modURL": "https://github.com/HAHAYOUDEAD/SillyMod",
+			"description": "Enables fun to be had: gear items physics, collisions and more",
+			"tags": "fun, physics, collisions, player height",
+			"categories": [
+				"Cheats",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://i.imgur.com/8HhzuKI.png"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.06",
+				"mlversion": "0.6.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
