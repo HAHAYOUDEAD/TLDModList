@@ -280,7 +280,7 @@
 			"downloadURL": "https://github.com/HAHAYOUDEAD/TinyTweaks/releases/latest/download/TinyTweaks-RespawnablePlants.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/TinyTweaks",
 			"description": "Plants will now regrow after 45 days (can be changed)",
-			"tags": "plant, harvestable, regrow, respawn",
+			"tags": "tiny tweaks, tinytweaks, tt, plant, harvestable, regrow, respawn",
 			"categories": [
 				"Gameplay",
 				"Cheats"
@@ -325,7 +325,7 @@
 			"downloadURL": "https://github.com/HAHAYOUDEAD/TinyTweaks/releases/latest/download/TinyTweaks-BuryHumanCorpses.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/TinyTweaks",
 			"description": "Get rid of those nasty corpses by right-clicking on them",
-			"tags": "corpse, human",
+			"tags": "tiny tweaks, tinytweaks, tt, corpse, human",
 			"categories": [
 				"Gameplay",
 				"Misc"
@@ -367,7 +367,7 @@
 			"downloadURL": "https://github.com/HAHAYOUDEAD/TinyTweaks/releases/latest/download/TinyTweaks-ExtendedFOVSlider.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/TinyTweaks",
 			"description": "Extend FOV slider to 150",
-			"tags": "fov, field of view",
+			"tags": "tiny tweaks, tinytweaks, tt, fov, field of view",
 			"categories": [
 				"Graphics",
 				"Misc"
@@ -409,7 +409,7 @@
 			"downloadURL": "https://github.com/HAHAYOUDEAD/TinyTweaks/releases/latest/download/TinyTweaks-MapTextOuline.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/TinyTweaks",
 			"description": "Outline text on the map, so you can actually see what it says. Has a few variants",
-			"tags": "map",
+			"tags": "tiny tweaks, tinytweaks, tt, map",
 			"categories": [
 				"Quality of Life",
 				"Misc"
@@ -453,7 +453,7 @@
 			"downloadURL": "https://github.com/HAHAYOUDEAD/TinyTweaks/releases/latest/download/TinyTweaks-DroppedObjectOrientation.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/TinyTweaks",
 			"description": "Fix dropped wooden matches and rifle to be in correct orientation. Because yes, they were incorrect",
-			"tags": "drop, orientation, fix",
+			"tags": "tiny tweaks, tinytweaks, tt, drop, orientation, fix",
 			"categories": [
 				"Misc"
 			],
