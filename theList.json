@@ -270,7 +270,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"name": "TinyTweaks-RespawnablePlants",
 			"displayName": "Tiny Tweaks: Plants Regrow",
 			"author": "",
@@ -315,13 +315,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"name": "TinyTweaks-BuryHumanCorpses",
 			"displayName": "Tiny Tweaks: Bury Corpses",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2023-03-12",
-			"updated": "2023-03-13",
+			"updated": "2023-03-21",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/TinyTweaks/releases/latest/download/TinyTweaks-BuryHumanCorpses.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/TinyTweaks",
 			"description": "Get rid of those nasty corpses by right-clicking on them",
@@ -359,7 +359,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"name": "TinyTweaks-ExtendedFOVSlider",
 			"displayName": "Tiny Tweaks: Extended FOV",
 			"author": "",
@@ -401,7 +401,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"name": "TinyTweaks-MapTextOuline",
 			"displayName": "Tiny Tweaks: Map Text Outline",
 			"author": "",
@@ -445,7 +445,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"name": "TinyTweaks-FixDroppedOrientation",
 			"displayName": "Tiny Tweaks: Correct Drop Orientation",
 			"author": "",
