@@ -96,13 +96,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"name": "NorthfolkClothingPack",
 			"displayName": "Northfolk Clothing Pack",
 			"author": "",
 			"previousAuthors": "<a href='https://github.com/nbakulev' target='_blank'>nbakulev</a>",
 			"released": "2021-10-26",
-			"updated": "2021-11-01",
+			"updated": "2023-04-04",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/NorthfolkClothingPack/releases/latest/download/NorthfolkClothingPack.modcomponent",
 			"modURL": "https://github.com/HAHAYOUDEAD/NorthfolkClothingPack",
 			"description": "Adds 2 previously seen + 3 brand new, inspired by northern folk, craftable clothes.<br><br>It's a standard ModComponent pack, installed by dropping it into .../Mods/",
@@ -111,7 +111,8 @@
 				"Clothing"
 			],
 			"gameversion": [
-				"vanilla"
+				"vanilla",
+				"tftft"
 			],
 			"images": [
 				"https://i.imgur.com/aFOiZM7.png"
@@ -127,8 +128,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.02",
-				"mlversion": "0.5.7"
+				"tldversion": "2.10",
+				"mlversion": "0.6.0"
 			},
 			"updater": {
 				"enable": true,
