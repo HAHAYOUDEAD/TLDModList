@@ -183,16 +183,16 @@
 		},
 		{
 			"type": "mod",
-			"version": "0.5.1",
+			"version": "0.6.0",
 			"name": "Personality",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2022-11-25",
-			"updated": "2023-01-07",
+			"updated": "2023-04-28",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/Personality/releases/download/v0.5.1-beta/Personality.zip",
 			"modURL": "https://github.com/HAHAYOUDEAD/Personality",
-			"description": "Lets you customize your character: replace textures and change outfit<br><br>Installed by unpacking it into .../Mods/",
+			"description": "Lets you customize your character: replace textures and change outfit. Here's a funny <a href='https://youtu.be/jm8WjlVVtw8' target='_blank'>showcasing video</a>.<br><br>Installed by unpacking it into .../Mods/",
 			"tags": "first person, hands, gloves, clothing, clothes",
 			"categories": [
 				"Clothing",
@@ -217,8 +217,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.06",
-				"mlversion": "0.6.0"
+				"tldversion": "2.16",
+				"mlversion": "0.6.1"
 			},
 			"updater": {
 				"enable": true,
