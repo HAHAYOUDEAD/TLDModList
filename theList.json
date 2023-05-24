@@ -26,7 +26,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/HAHAYOUDEAD/TLDModList/blob/main/pics/PastimeReading.png",
+				"https://github.com/HAHAYOUDEAD/TLDModList/blob/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/PastimeReading.png",
 				"https://i.imgur.com/ji8mHV2.png"
 			],
 			"dependencies": [
@@ -70,7 +70,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/HAHAYOUDEAD/TLDModList/blob/main/pics/Foods.png",
+				"https://github.com/HAHAYOUDEAD/TLDModList/blob/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/Foods.png",
 				"https://i.imgur.com/i3JowEX.png"
 			],
 			"dependencies": [
@@ -115,7 +115,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/HAHAYOUDEAD/TLDModList/blob/main/pics/Clothing.png"
+				"https://github.com/HAHAYOUDEAD/TLDModList/blob/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/Clothing.png"
 			],
 			"dependencies": [
 				"ModComponent"
@@ -159,7 +159,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/HAHAYOUDEAD/TLDModList/blob/main/pics/Jump.png"
+				"https://github.com/HAHAYOUDEAD/TLDModList/blob/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/Jump.png"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -203,7 +203,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/HAHAYOUDEAD/TLDModList/blob/main/pics/Personality.png",
+				"https://github.com/HAHAYOUDEAD/TLDModList/blob/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/Personality.png",
 				"https://imgur.com/OBg93BG.png"
 			],
 			"dependencies": [
@@ -248,7 +248,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/HAHAYOUDEAD/TLDModList/blob/main/pics/Silly.png"
+				"https://github.com/HAHAYOUDEAD/TLDModList/blob/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/Silly.png"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -292,7 +292,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/HAHAYOUDEAD/TLDModList/blob/main/pics/TT-regrow.png"
+				"https://github.com/HAHAYOUDEAD/TLDModList/blob/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/TT-regrow.png"
 			],
 			"dependencies": [
 				"ModSettings",
@@ -337,7 +337,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/HAHAYOUDEAD/TLDModList/blob/main/pics/TT-corpse.png"
+				"https://github.com/HAHAYOUDEAD/TLDModList/blob/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/TT-corpse.png"
 			],
 			"dependencies": [
 				"ModData"
@@ -381,7 +381,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/HAHAYOUDEAD/TLDModList/blob/main/pics/TT-fov.png"
+				"https://github.com/HAHAYOUDEAD/TLDModList/blob/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/TT-fov.png"
 			],
 			"dependencies": [],
 			"status": {
@@ -423,7 +423,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/HAHAYOUDEAD/TLDModList/blob/main/pics/TT-outlines.png"
+				"https://github.com/HAHAYOUDEAD/TLDModList/blob/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/TT-outlines.png"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -466,7 +466,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/HAHAYOUDEAD/TLDModList/blob/main/pics/TT-orientation.png"
+				"https://github.com/HAHAYOUDEAD/TLDModList/blob/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/TT-orientation.png"
 			],
 			"dependencies": [],
 			"status": {
