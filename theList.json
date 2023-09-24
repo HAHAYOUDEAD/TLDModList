@@ -504,7 +504,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://github.com/HAHAYOUDEAD/TLDModList/blob/39e8ca8ffb9f766d5b44dbf7cad8bff8e63bcdcd/pics/ClothingTweaker.png"
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/39e8ca8ffb9f766d5b44dbf7cad8bff8e63bcdcd/pics/ClothingTweaker.png"
 			],
 			"dependencies": [
 				"ModSettings"
