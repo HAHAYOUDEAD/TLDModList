@@ -40,7 +40,7 @@
 				"issues": "- Non-latin text take a long while to load \n- No sounds"
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.24",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -85,7 +85,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.24",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -128,7 +128,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.24",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -172,7 +172,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.24",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -217,7 +217,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.24",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -261,7 +261,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.24",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -306,7 +306,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.24",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -350,7 +350,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.24",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -392,7 +392,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.24",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -436,7 +436,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.24",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -477,7 +477,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.24",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -517,7 +517,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.22",
+				"tldversion": "2.24",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
