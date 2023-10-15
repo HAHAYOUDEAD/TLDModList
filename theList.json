@@ -272,7 +272,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.2",
+			"version": "1.1.0",
 			"name": "TinyTweaks-RespawnablePlants",
 			"displayName": "Tiny Tweaks: Plants Regrow",
 			"author": "",
@@ -317,7 +317,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.2",
+			"version": "1.1.0",
 			"name": "TinyTweaks-BuryHumanCorpses",
 			"displayName": "Tiny Tweaks: Bury Corpses",
 			"author": "",
@@ -361,7 +361,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.2",
+			"version": "1.1.0",
 			"name": "TinyTweaks-ExtendedFOVSlider",
 			"displayName": "Tiny Tweaks: Extended FOV",
 			"author": "",
@@ -403,7 +403,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.2",
+			"version": "1.1.0",
 			"name": "TinyTweaks-MapTextOuline",
 			"displayName": "Tiny Tweaks: Map Text Outline",
 			"author": "",
@@ -447,7 +447,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.2",
+			"version": "1.1.0",
 			"name": "TinyTweaks-FixDroppedOrientation",
 			"displayName": "Tiny Tweaks: Correct Drop Orientation",
 			"author": "",
@@ -519,6 +519,90 @@
 			"testedon": {
 				"tldversion": "2.24",
 				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.1.0",
+			"name": "TinyTweaks-PauseOnRadial",
+			"displayName": "Tiny Tweaks: Pause On Radial",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2023-10-15",
+			"updated": "2023-10-15",
+			"downloadURL": "https://github.com/HAHAYOUDEAD/TinyTweaks/releases/latest/download/TinyTweaks-PauseOnRadial.dll",
+			"modURL": "https://github.com/HAHAYOUDEAD/TinyTweaks",
+			"description": "Slows down time when bringing up radial menus",
+			"tags": "tiny tweaks, tinytweaks, tt, radial, slowdown, timescale",
+			"categories": [
+				"Quality of Life",
+				"Gameplay",
+				"Cheats"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/3617bc12f223b9c4e63c0b5a1a07f1a72bc37107/pics/TT-radialPause.png"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.24",
+				"mlversion": "0.61"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.1.0",
+			"name": "TinyTweaks-RunWithLantern",
+			"displayName": "Tiny Tweaks: Run With Lantern",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2023-10-15",
+			"updated": "2023-10-15",
+			"downloadURL": "https://github.com/HAHAYOUDEAD/TinyTweaks/releases/latest/download/TinyTweaks-RunWithLantern.dll",
+			"modURL": "https://github.com/HAHAYOUDEAD/TinyTweaks",
+			"description": "Removes restrictions on lantern animation: allows movement and removes camera lock",
+			"tags": "tiny tweaks, tinytweaks, tt, lantern, animation",
+			"categories": [
+				"Quality of Life"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/3617bc12f223b9c4e63c0b5a1a07f1a72bc37107/pics/TT-lantern.png"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.24",
+				"mlversion": "0.61"
 			},
 			"updater": {
 				"enable": true,
