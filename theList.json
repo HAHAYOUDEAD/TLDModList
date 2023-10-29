@@ -203,8 +203,8 @@
 				"tftft"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/Personality.png",
-				"https://imgur.com/OBg93BG.png"
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/2a5b4216a75eeb1aecbe8e92b5a608263a24e5a5/pics/Personality2.png",
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/Personality.png"
 			],
 			"dependencies": [
 				"ModSettings"
