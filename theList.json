@@ -488,46 +488,6 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.6.2",
-			"name": "ClothingTweaker",
-			"displayName": "Clothing Tweaker",
-			"author": "",
-			"previousAuthors": "Cass",
-			"released": "2021-05-20",
-			"updated": "2024-10-10",
-			"downloadURL": "https://github.com/HAHAYOUDEAD/ClothingTweaker/releases/latest/download/ClothingTweaker.dll",
-			"modURL": "https://github.com/HAHAYOUDEAD/ClothingTweaker",
-			"description": "    Allows you to adjust the warmth, warmth when wet, windproof, waterproof, protection, mobility, weight and decay rates of clothing items\n",
-			"tags": "clothing, tweaks",
-			"categories": [
-				"Clothing"
-			],
-			"gameversion": [],
-			"images": [
-				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/39e8ca8ffb9f766d5b44dbf7cad8bff8e63bcdcd/pics/ClothingTweaker.png"
-			],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.24",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "1.1.0",
 			"name": "TinyTweaks-PauseOnRadial",
 			"displayName": "Tiny Tweaks: Pause On Radial",
@@ -602,6 +562,51 @@
 			},
 			"testedon": {
 				"tldversion": "2.24",
+				"mlversion": "0.61"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "ClothingTweaker2",
+			"displayName": "Clothing Tweaker 2",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2024-10-10",
+			"updated": "2024-12-03",
+			"downloadURL": "github.com/HAHAYOUDEAD/ClothingTweaker2/releases/latest/download/ClothingTweaker2.dll",
+			"modURL": "https://github.com/HAHAYOUDEAD/ClothingTweaker2",
+			"description": "Clothing Tweaker reimagined. Allows you to edit clothing stats on the go",
+			"tags": "clothing, tweaks",
+			"categories": [
+				"Clothing",
+				"Cheats"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/39e8ca8ffb9f766d5b44dbf7cad8bff8e63bcdcd/pics/ClothingTweaker.png"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModData"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.33",
 				"mlversion": "0.61"
 			},
 			"updater": {
