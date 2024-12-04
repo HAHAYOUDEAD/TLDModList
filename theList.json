@@ -484,7 +484,9 @@
 				"enable": true,
 				"downloads": []
 			},
-			"aliases": []
+			"aliases": [
+				"TinyTweaks-DroppedObjectOrientation"
+			]
 		},
 		{
 			"type": "mod",
