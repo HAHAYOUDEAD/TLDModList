@@ -272,13 +272,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1.0",
+			"version": "1.1.1",
 			"name": "TinyTweaks-RespawnablePlants",
 			"displayName": "Tiny Tweaks: Plants Regrow",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2023-03-12",
-			"updated": "2023-03-12",
+			"updated": "2024-12-06",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/TinyTweaks/releases/latest/download/TinyTweaks-RespawnablePlants.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/TinyTweaks",
 			"description": "Plants will now regrow after 45 days (can be changed)",
@@ -306,8 +306,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.24",
-				"mlversion": "0.6.1"
+				"tldversion": "2.35",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
@@ -317,7 +317,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1.0",
+			"version": "1.1.1",
 			"name": "TinyTweaks-BuryHumanCorpses",
 			"displayName": "Tiny Tweaks: Bury Corpses",
 			"author": "",
@@ -350,8 +350,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.24",
-				"mlversion": "0.6.1"
+				"tldversion": "2.35",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
@@ -361,7 +361,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1.0",
+			"version": "1.1.1",
 			"name": "TinyTweaks-ExtendedFOVSlider",
 			"displayName": "Tiny Tweaks: Extended FOV",
 			"author": "",
@@ -392,8 +392,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.24",
-				"mlversion": "0.6.1"
+				"tldversion": "2.35",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
@@ -403,7 +403,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1.0",
+			"version": "1.1.1",
 			"name": "TinyTweaks-MapTextOuline",
 			"displayName": "Tiny Tweaks: Map Text Outline",
 			"author": "",
@@ -436,8 +436,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.24",
-				"mlversion": "0.6.1"
+				"tldversion": "2.35",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
@@ -447,8 +447,8 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1.0",
-			"name": "TinyTweaks-FixDroppedOrientation",
+			"version": "1.1.1",
+			"name": "TinyTweaks-DroppedObjectOrientation",
 			"displayName": "Tiny Tweaks: Correct Drop Orientation",
 			"author": "",
 			"previousAuthors": "",
@@ -477,20 +477,20 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.24",
-				"mlversion": "0.6.1"
+				"tldversion": "2.35",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": []
 			},
 			"aliases": [
-				"TinyTweaks-DroppedObjectOrientation"
+				"TinyTweaks-FixDroppedOrientation"
 			]
 		},
 		{
 			"type": "mod",
-			"version": "1.1.0",
+			"version": "1.1.1",
 			"name": "TinyTweaks-PauseOnRadial",
 			"displayName": "Tiny Tweaks: Pause On Radial",
 			"author": "",
@@ -522,8 +522,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.24",
-				"mlversion": "0.61"
+				"tldversion": "2.35",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
@@ -533,13 +533,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1.0",
+			"version": "1.1.1",
 			"name": "TinyTweaks-RunWithLantern",
 			"displayName": "Tiny Tweaks: Run With Lantern",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2023-10-15",
-			"updated": "2023-10-15",
+			"updated": "2024-12-06",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/TinyTweaks/releases/latest/download/TinyTweaks-RunWithLantern.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/TinyTweaks",
 			"description": "Removes restrictions on lantern animation: allows movement and removes camera lock",
@@ -563,8 +563,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.24",
-				"mlversion": "0.61"
+				"tldversion": "2.35",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
