@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.2.2",
+			"version": "1.2.3",
 			"name": "PastimeReading",
 			"displayName": "Pastime Reading",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2021-08-30",
-			"updated": "2023-03-02",
-			"downloadURL": "https://github.com/HAHAYOUDEAD/PastimeReading/releases/download/v1.2.2-beta/pastimeReading.zip",
+			"updated": "2024-12-06",
+			"downloadURL": "https://github.com/HAHAYOUDEAD/PastimeReading/releases/download/v1.2.3-beta/pastimeReading.zip",
 			"modURL": "https://github.com/HAHAYOUDEAD/PastimeReading",
 			"description": "Adds a readable, customizable book with animations and stuff.<br><br><a href='https://youtu.be/MIUvKW89SgI' target='_blank'>Showcasing video</a>. <a href='https://www.youtube.com/watch?v=q_k4YNhaY5A' target='_blank'>Detailed review(has subtitles)</a>.<br><br>Mod is installed by extracting .zip into .../Mods/",
 			"tags": "late game, reading, book",
@@ -40,8 +40,8 @@
 				"issues": "- Non-latin text take a long while to load \n- No sounds"
 			},
 			"testedon": {
-				"tldversion": "2.24",
-				"mlversion": "0.6.1"
+				"tldversion": "2.35",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
@@ -85,8 +85,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.33",
-				"mlversion": "0.6.1"
+				"tldversion": "2.35",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
@@ -128,8 +128,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.33",
-				"mlversion": "0.6.1"
+				"tldversion": "2.35",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
@@ -172,8 +172,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.24",
-				"mlversion": "0.6.1"
+				"tldversion": "2.35",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
@@ -608,8 +608,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.33",
-				"mlversion": "0.61"
+				"tldversion": "2.35",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
