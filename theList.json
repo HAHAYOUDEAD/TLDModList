@@ -616,6 +616,53 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "0.7.0",
+			"name": "Architect",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2024-12-21",
+			"updated": "2024-12-21",
+			"downloadURL": "https://github.com/HAHAYOUDEAD/Architect/releases/download/v0.7.0-beta/Architect.zip",
+			"modURL": "https://github.com/HAHAYOUDEAD/Architect",
+			"description": "Modular base building mod",
+			"tags": "building, safehouse, decoration, base",
+			"categories": [
+				"Gameplay",
+				"Gear Items",
+				"Base Building"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/af81ef357e8411f248ad5866f50a24f771e001dc/pics/Architect.png"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent",
+				"ModData"
+			],
+			"status": {
+				"working": true,
+				"beta": true,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.39",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
