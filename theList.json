@@ -272,13 +272,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1.1",
+			"version": "1.2.0",
 			"name": "TinyTweaks-RespawnablePlants",
 			"displayName": "Tiny Tweaks: Plants Regrow",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2023-03-12",
-			"updated": "2024-12-06",
+			"updated": "2024-12-28",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/TinyTweaks/releases/latest/download/TinyTweaks-RespawnablePlants.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/TinyTweaks",
 			"description": "Plants will now regrow after 45 days (can be changed)",
@@ -317,7 +317,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1.1",
+			"version": "1.2.0",
 			"name": "TinyTweaks-BuryHumanCorpses",
 			"displayName": "Tiny Tweaks: Bury Corpses",
 			"author": "",
@@ -361,7 +361,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1.1",
+			"version": "1.2.0",
 			"name": "TinyTweaks-ExtendedFOVSlider",
 			"displayName": "Tiny Tweaks: Extended FOV",
 			"author": "",
@@ -403,7 +403,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1.1",
+			"version": "1.2.0",
 			"name": "TinyTweaks-MapTextOuline",
 			"displayName": "Tiny Tweaks: Map Text Outline",
 			"author": "",
@@ -447,7 +447,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1.1",
+			"version": "1.2.0",
 			"name": "TinyTweaks-DroppedObjectOrientation",
 			"displayName": "Tiny Tweaks: Correct Drop Orientation",
 			"author": "",
@@ -490,7 +490,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1.1",
+			"version": "1.2.0",
 			"name": "TinyTweaks-PauseOnRadial",
 			"displayName": "Tiny Tweaks: Pause On Radial",
 			"author": "",
@@ -533,7 +533,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1.1",
+			"version": "1.2.0",
 			"name": "TinyTweaks-RunWithLantern",
 			"displayName": "Tiny Tweaks: Run With Lantern",
 			"author": "",
@@ -650,6 +650,50 @@
 			"status": {
 				"working": true,
 				"beta": true,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.39",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.2.0",
+			"name": " TinyTweaks-FallDeathGoat",
+			"displayName": "Tiny Tweaks: Fall Death Goat",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2024-12-28",
+			"updated": "2024-12-28",
+			"downloadURL": "https://github.com/HAHAYOUDEAD/TinyTweaks/releases/latest/download/TinyTweaks-FallDeathGoat.dll",
+			"modURL": "https://github.com/HAHAYOUDEAD/TinyTweaks",
+			"description": "Disables fall death triggers but doubles fall damage (can be tweaked)",
+			"tags": "tiny tweaks, tinytweaks, tt, fall damage, fall death, death, trigger",
+			"categories": [
+				"Gameplay",
+				"Cheats"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/879c607a09fb9d428bf7784d4e374e39cd6ad30b/pics/TT-goat.png"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
 				"patchnotes": "",
 				"notes": "",
 				"issues": ""
