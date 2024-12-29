@@ -706,7 +706,9 @@
 				"enable": true,
 				"downloads": []
 			},
-			"aliases": []
+			"aliases": [
+				"TinyTweaks-DeathTriggerGoat"
+			]
 		}
 	]
 }
