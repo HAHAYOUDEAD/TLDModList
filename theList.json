@@ -272,7 +272,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.0",
+			"version": "1.2.2",
 			"name": "TinyTweaks-RespawnablePlants",
 			"displayName": "Tiny Tweaks: Plants Regrow",
 			"author": "",
@@ -317,7 +317,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.0",
+			"version": "1.2.2",
 			"name": "TinyTweaks-BuryHumanCorpses",
 			"displayName": "Tiny Tweaks: Bury Corpses",
 			"author": "",
@@ -361,7 +361,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.0",
+			"version": "1.2.2",
 			"name": "TinyTweaks-ExtendedFOVSlider",
 			"displayName": "Tiny Tweaks: Extended FOV",
 			"author": "",
@@ -403,7 +403,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.0",
+			"version": "1.2.2",
 			"name": "TinyTweaks-MapTextOuline",
 			"displayName": "Tiny Tweaks: Map Text Outline",
 			"author": "",
@@ -447,7 +447,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.0",
+			"version": "1.2.2",
 			"name": "TinyTweaks-DroppedObjectOrientation",
 			"displayName": "Tiny Tweaks: Correct Drop Orientation",
 			"author": "",
@@ -490,7 +490,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.0",
+			"version": "1.2.2",
 			"name": "TinyTweaks-PauseOnRadial",
 			"displayName": "Tiny Tweaks: Pause On Radial",
 			"author": "",
@@ -533,7 +533,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.0",
+			"version": "1.2.2",
 			"name": "TinyTweaks-RunWithLantern",
 			"displayName": "Tiny Tweaks: Run With Lantern",
 			"author": "",
@@ -666,7 +666,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.0",
+			"version": "1.2.2",
 			"name": " TinyTweaks-FallDeathGoat",
 			"displayName": "Tiny Tweaks: Fall Death Goat",
 			"author": "",
@@ -709,6 +709,50 @@
 			"aliases": [
 				"TinyTweaks-DeathTriggerGoat"
 			]
+		},
+		{
+			"type": "mod",
+			"version": "1.2.2",
+			"name": " TinyTweaks-WakeUpCall",
+			"displayName": "Tiny Tweaks: Wakeup Call",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2025-01-12",
+			"updated": "2025-01-12",
+			"downloadURL": "https://github.com/HAHAYOUDEAD/TinyTweaks/releases/latest/download/TinyTweaks-WakeUpCall.dll",
+			"modURL": "https://github.com/HAHAYOUDEAD/TinyTweaks",
+			"description": "Allows you to interrupt sleep at will. Has an option to wake up when aurora starts, and a few more",
+			"tags": "tiny tweaks, tinytweaks, tt, sleep, wake up, interrupt",
+			"categories": [
+				"Quality of Life",
+				"Cheats"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/29237bf2fd62d8a14528d6281f3c52236ce8ee64/pics/TT-wakeup.png"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.39",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
