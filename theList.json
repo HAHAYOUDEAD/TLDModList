@@ -753,6 +753,55 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.8.2",
+			"name": " SafehouseCustomizationPlus",
+			"displayName": " Safehouse Customization Plus",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2024-12-03",
+			"updated": "2025-03-24",
+			"downloadURL": "https://github.com/HAHAYOUDEAD/SafehouseCustomizationPlus/releases/latest/download/SCPlus.zip",
+			"modURL": "https://github.com/HAHAYOUDEAD/SafehouseCustomizationPlus",
+			"description": "Enables customization everywhere, allows to move and pick up containers, stoves, workbenches and many more.\n\nWARNING! Consider this mod expeimental. There was no reports of losing item, but the possibility is still there. Make save backups just in case",
+			"tags": "safehouse customization, props, furniture, customization, decoration",
+			"categories": [
+				"Quality of Life",
+				"Base Building",
+				"Cheats"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/d67747c798cfae0812ba2b47aa3c63a173205fc6/pics/SCP.png"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModData",
+				"LocalizationUtilities"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.40",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [
+				"SCPlus"
+			]
 		}
 	]
 }
