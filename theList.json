@@ -111,8 +111,7 @@
 				"Clothing"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/Clothing.png"
@@ -125,7 +124,7 @@
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
-				"issues": ""
+				"issues": "Does not currently work with TFTFT DLC, due to it having gear with exact same names as the mod"
 			},
 			"testedon": {
 				"tldversion": "2.35",
