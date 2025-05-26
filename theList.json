@@ -814,7 +814,7 @@
 			"downloadURL": "https://github.com/HAHAYOUDEAD/TravoisTether/releases/latest/download/TravoisTether.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/TravoisTether",
 			"description": "Prevents travois from despawning",
-			"tags": "",
+			"tags": "travois, despawning, disappearing",
 			"categories": [
 				"Quality of Life",
 				"Misc"
@@ -827,6 +827,51 @@
 			],
 			"dependencies": [
 				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.40",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "0.9.0",
+			"name": "GearInfo",
+			"displayName": "Gear Info",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2025-05-26",
+			"updated": "2025-05-26",
+			"downloadURL": "https://github.com/HAHAYOUDEAD/GearInfo/releases/latest/download/GearInfo.dll",
+			"modURL": "https://github.com/HAHAYOUDEAD/GearInfo",
+			"description": "Shows additional gear info in your inventory (there's a small (i) button next to gear name)",
+			"tags": "gear, info, data",
+			"categories": [
+				"Gear Items",
+				"Cheats"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/513b427b1f758dfdec6e761c537c1294d389bf82/pics/GearInfo.png"
+			],
+			"dependencies": [
+				"ModSettings",
+				"LocalizationUtilities"
 			],
 			"status": {
 				"working": true,
