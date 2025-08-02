@@ -124,7 +124,7 @@
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
-				"issues": "Does not currently work with TFTFT DLC, due to it having gear with exact same names as the mod"
+				"issues": ""
 			},
 			"testedon": {
 				"tldversion": "2.35",
@@ -892,3 +892,4 @@
 		}
 	]
 }
+
