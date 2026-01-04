@@ -66,8 +66,7 @@
 				"Food"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/Foods.png",
@@ -154,8 +153,7 @@
 				"Cheats"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/Jump.png"
@@ -892,6 +890,7 @@
 		}
 	]
 }
+
 
 
 
