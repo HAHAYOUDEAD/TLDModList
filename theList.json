@@ -51,13 +51,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.11",
+			"version": "1.0.12",
 			"name": "FoodsByCalorieWaltz",
 			"displayName": "Foods by 'Calorie Waltz'",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2021-09-12",
-			"updated": "2025-06-25",
+			"updated": "2026-01-04",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/FoodsByCalorieWaltz/releases/latest/download/FoodsByCalorieWaltz.zip",
 			"modURL": "https://github.com/HAHAYOUDEAD/FoodsByCalorieWaltz",
 			"description": "Adds 20+ unique, delicious <a href='https://raw.githubusercontent.com/HAHAYOUDEAD/FoodsByCalorieWaltz/main/Images/allRender2.png' target='_blank'>food and beverage items</a>. Insludes cute collectibles and handy settings!<br><br>Installed by unpacking it into .../Mods/",
@@ -85,8 +85,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.35",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
@@ -144,7 +144,7 @@
 			"author": "",
 			"previousAuthors": "<a href='https://github.com/DigitalzombieTLD' target='_blank'>DigitalZombie</a>",
 			"released": "2023-01-07",
-			"updated": "2025-01-04",
+			"updated": "2026-01-04",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/Jump/releases/latest/download/Jump.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/Jump",
 			"description": "Allows you to jump. Also has some settings. Installed by dropping it into .../Mods/",
@@ -892,6 +892,7 @@
 		}
 	]
 }
+
 
 
 
