@@ -656,13 +656,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.2",
+			"version": "1.2.3",
 			"name": " TinyTweaks-FallDeathGoat",
 			"displayName": "Tiny Tweaks: Fall Death Goat",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2024-12-28",
-			"updated": "2024-12-28",
+			"updated": "2026-01-05",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/TinyTweaks/releases/latest/download/TinyTweaks-FallDeathGoat.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/TinyTweaks",
 			"description": "Disables fall death triggers but doubles fall damage (can be tweaked)",
@@ -672,8 +672,7 @@
 				"Cheats"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/879c607a09fb9d428bf7784d4e374e39cd6ad30b/pics/TT-goat.png"
@@ -689,8 +688,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.39",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
@@ -702,13 +701,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.2",
+			"version": "1.2.3",
 			"name": " TinyTweaks-WakeUpCall",
 			"displayName": "Tiny Tweaks: Wakeup Call",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2025-01-12",
-			"updated": "2025-01-12",
+			"updated": "2026-01-05",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/TinyTweaks/releases/latest/download/TinyTweaks-WakeUpCall.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/TinyTweaks",
 			"description": "Allows you to interrupt sleep at will. Has an option to wake up when aurora starts, and a few more",
@@ -718,8 +717,7 @@
 				"Cheats"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/29237bf2fd62d8a14528d6281f3c52236ce8ee64/pics/TT-wakeup.png"
@@ -735,8 +733,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.39",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
