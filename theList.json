@@ -744,13 +744,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.9.3",
+			"version": "1.9.4",
 			"name": " SafehouseCustomizationPlus",
 			"displayName": " Safehouse Customization Plus",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2024-12-03",
-			"updated": "2025-05-18",
+			"updated": "2026-01-05",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/SafehouseCustomizationPlus/releases/latest/download/SafehouseCustomizationPlus.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/SafehouseCustomizationPlus",
 			"description": "Enables customization everywhere, allows to move and pick up containers, stoves, workbenches and many more.<br><br>WARNING! Consider this mod expeimental. There was no reports of losing item, but the possibility is still there. Make save backups just in case",
@@ -761,8 +761,7 @@
 				"Cheats"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/d67747c798cfae0812ba2b47aa3c63a173205fc6/pics/SCP.png"
@@ -780,8 +779,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.40",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
