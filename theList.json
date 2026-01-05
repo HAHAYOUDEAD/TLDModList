@@ -269,13 +269,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.2",
+			"version": "1.2.3",
 			"name": "TinyTweaks-RespawnablePlants",
 			"displayName": "Tiny Tweaks: Plants Regrow",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2023-03-12",
-			"updated": "2024-12-28",
+			"updated": "2026-01-05",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/TinyTweaks/releases/latest/download/TinyTweaks-RespawnablePlants.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/TinyTweaks",
 			"description": "Plants will now regrow after 45 days (can be changed)",
@@ -285,8 +285,7 @@
 				"Cheats"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/TT-regrow.png"
@@ -303,8 +302,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.35",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
@@ -314,13 +313,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.2",
+			"version": "1.2.3",
 			"name": "TinyTweaks-BuryHumanCorpses",
 			"displayName": "Tiny Tweaks: Bury Corpses",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2023-03-12",
-			"updated": "2023-03-21",
+			"updated": "2026-01-05",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/TinyTweaks/releases/latest/download/TinyTweaks-BuryHumanCorpses.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/TinyTweaks",
 			"description": "REDUNDANT since Safehouse Customization has same function. But still works<br><br>Get rid of those nasty corpses by right-clicking on them",
@@ -330,8 +329,7 @@
 				"Misc"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/TT-corpse.png"
@@ -347,8 +345,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.35",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
@@ -358,13 +356,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.2",
+			"version": "1.2.3",
 			"name": "TinyTweaks-ExtendedFOVSlider",
 			"displayName": "Tiny Tweaks: Extended FOV",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2023-03-12",
-			"updated": "2023-03-12",
+			"updated": "2026-01-05",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/TinyTweaks/releases/latest/download/TinyTweaks-ExtendedFOVSlider.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/TinyTweaks",
 			"description": "Extend FOV slider to 150",
@@ -374,8 +372,7 @@
 				"Misc"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/TT-fov.png"
@@ -389,8 +386,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.35",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
@@ -400,13 +397,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.2",
+			"version": "1.2.3",
 			"name": "TinyTweaks-MapTextOuline",
 			"displayName": "Tiny Tweaks: Map Text Outline",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2023-03-12",
-			"updated": "2023-03-12",
+			"updated": "2026-01-05",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/TinyTweaks/releases/latest/download/TinyTweaks-MapTextOuline.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/TinyTweaks",
 			"description": "Outline text on the map, so you can actually see what it says. Has a few variants",
@@ -416,8 +413,7 @@
 				"Misc"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/TT-outlines.png"
@@ -433,8 +429,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.35",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
@@ -444,13 +440,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.2",
+			"version": "1.2.3",
 			"name": "TinyTweaks-DroppedObjectOrientation",
 			"displayName": "Tiny Tweaks: Correct Drop Orientation",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2023-03-12",
-			"updated": "2023-03-12",
+			"updated": "2026-01-05",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/TinyTweaks/releases/latest/download/TinyTweaks-DroppedObjectOrientation.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/TinyTweaks",
 			"description": "Fix dropped wooden matches and rifle to be in correct orientation. Because yes, they were incorrect",
@@ -459,8 +455,7 @@
 				"Misc"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/TT-orientation.png"
@@ -474,8 +469,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.35",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
@@ -487,13 +482,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.2",
+			"version": "1.2.3",
 			"name": "TinyTweaks-PauseOnRadial",
 			"displayName": "Tiny Tweaks: Pause On Radial",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2023-10-15",
-			"updated": "2023-10-15",
+			"updated": "2026-01-05",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/TinyTweaks/releases/latest/download/TinyTweaks-PauseOnRadial.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/TinyTweaks",
 			"description": "Slows down time when bringing up radial menus",
@@ -504,8 +499,7 @@
 				"Cheats"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/3617bc12f223b9c4e63c0b5a1a07f1a72bc37107/pics/TT-radialPause.png"
@@ -519,8 +513,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.35",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
@@ -530,13 +524,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.2",
+			"version": "1.2.3",
 			"name": "TinyTweaks-RunWithLantern",
 			"displayName": "Tiny Tweaks: Run With Lantern",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2023-10-15",
-			"updated": "2024-12-06",
+			"updated": "2026-01-05",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/TinyTweaks/releases/latest/download/TinyTweaks-RunWithLantern.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/TinyTweaks",
 			"description": "Removes restrictions on lantern animation: allows movement and removes camera lock",
@@ -545,8 +539,7 @@
 				"Quality of Life"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/3617bc12f223b9c4e63c0b5a1a07f1a72bc37107/pics/TT-lantern.png"
@@ -560,8 +553,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.35",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
@@ -890,9 +883,3 @@
 		}
 	]
 }
-
-
-
-
-
-
