@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.2.3",
+			"version": "1.2.4",
 			"name": "PastimeReading",
 			"displayName": "Pastime Reading",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2021-08-30",
-			"updated": "2024-12-06",
-			"downloadURL": "https://github.com/HAHAYOUDEAD/PastimeReading/releases/download/v1.2.3-beta/pastimeReading.zip",
+			"updated": "2026-01-06",
+			"downloadURL": "https://github.com/HAHAYOUDEAD/PastimeReading/releases/download/v1.2.4-beta/pastimeReading.zip",
 			"modURL": "https://github.com/HAHAYOUDEAD/PastimeReading",
 			"description": "Adds a readable, customizable book with animations and stuff.<br><br><a href='https://youtu.be/MIUvKW89SgI' target='_blank'>Showcasing video</a>. <a href='https://www.youtube.com/watch?v=q_k4YNhaY5A' target='_blank'>Detailed review(has subtitles)</a>.<br><br>Mod is installed by extracting .zip into .../Mods/",
 			"tags": "late game, reading, book",
@@ -22,8 +22,7 @@
 				"Misc"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/PastimeReading.png",
@@ -37,11 +36,11 @@
 				"beta": true,
 				"patchnotes": "",
 				"notes": "",
-				"issues": "- Non-latin text take a long while to load \n- No sounds"
+				"issues": "- No sounds"
 			},
 			"testedon": {
-				"tldversion": "2.35",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
@@ -768,8 +767,8 @@
 			],
 			"dependencies": [
 				"ModSettings",
-				"ModData",
-				"LocalizationUtilities"
+				"ModComponent",
+				"ModData"
 			],
 			"status": {
 				"working": true,
