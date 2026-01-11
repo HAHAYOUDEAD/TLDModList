@@ -874,8 +874,48 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.2.1",
+			"name": "SonicMode",
+			"displayName": "Sonic Mode",
+			"author": "",
+			"previousAuthors": "ds5678",
+			"released": "2021-01-20",
+			"updated": "2026-01-11",
+			"downloadURL": "https://github.com/HAHAYOUDEAD/SonicMode/releases/latest/download/SonicMode.dll",
+			"modURL": "https://github.com/HAHAYOUDEAD/SonicMode",
+			"description": "Allows you to go fast. Has additional settings for stamina recovery",
+			"tags": "",
+			"categories": [
+				"Cheats"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/refs/heads/main/pics/Sonic.png"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
-
-
