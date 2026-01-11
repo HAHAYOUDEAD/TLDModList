@@ -916,6 +916,50 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "TimeScaleHotkey",
+			"displayName": "Timescale Hotkey",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2026-01-12",
+			"updated": "2026-01-12",
+			"downloadURL": "https://github.com/HAHAYOUDEAD/TimescaleHotkey/releases/latest/download/TimeScaleHotkey.dll",
+			"modURL": "https://github.com/HAHAYOUDEAD/TimescaleHotkey",
+			"description": "Allows you to either speed up or slow down time by pressing a configurable hotkey",
+			"tags": "",
+			"categories": [
+				"Cheats"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/refs/heads/main/pics/TimescaleHK.png"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [
+				"TimeAccelerator"
+			]
 		}
 	]
 }
