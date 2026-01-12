@@ -832,13 +832,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "0.9.4",
+			"version": "0.9.5",
 			"name": "GearInfo",
 			"displayName": "Gear Info",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2025-05-26",
-			"updated": "2025-08-07",
+			"updated": "2026-01-12",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/GearInfo/releases/latest/download/GearInfo.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/GearInfo",
 			"description": "Shows additional gear info in your inventory (there's a small (i) button next to gear name)",
@@ -848,15 +848,14 @@
 				"Cheats"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/4d56185b662f51df77ee6a0f20ecfcb951530962/pics/GearInfo.png"
 			],
 			"dependencies": [
 				"ModSettings",
-				"LocalizationUtilities"
+				"ModComponent"
 			],
 			"status": {
 				"working": true,
@@ -866,8 +865,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.40",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
@@ -963,3 +962,4 @@
 		}
 	]
 }
+
