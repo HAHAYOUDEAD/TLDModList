@@ -562,13 +562,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.2",
+			"version": "1.0.4",
 			"name": "ClothingTweaker2",
 			"displayName": "Clothing Tweaker 2",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2024-10-10",
-			"updated": "2024-12-11",
+			"updated": "2026-01-14",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/ClothingTweaker2/releases/latest/download/ClothingTweaker2.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/ClothingTweaker2",
 			"description": "Clothing Tweaker reimagined. Allows you to edit clothing stats on the go",
@@ -578,8 +578,7 @@
 				"Cheats"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/39e8ca8ffb9f766d5b44dbf7cad8bff8e63bcdcd/pics/ClothingTweaker.png"
@@ -596,8 +595,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.35",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
@@ -962,5 +961,6 @@
 		}
 	]
 }
+
 
 
