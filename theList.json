@@ -223,13 +223,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0",
+			"version": "2.0.0",
 			"name": "SillyMod",
 			"displayName": "Silly Mod",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2023-03-07",
-			"updated": "2023-03-08",
+			"updated": "2026-01-14",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/SillyMod/releases/latest/download/SillyMod.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/SillyMod",
 			"description": "Enables fun: gear items physics, collisions and more<br><br>Don't use it on your normal save, you'll regret it",
@@ -239,8 +239,7 @@
 				"Misc"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/Silly.png"
@@ -256,8 +255,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.24",
-				"mlversion": "0.6.1"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
@@ -918,6 +917,7 @@
 		}
 	]
 }
+
 
 
 
