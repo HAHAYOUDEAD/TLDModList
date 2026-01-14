@@ -788,49 +788,6 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
-			"name": "TravoisTether",
-			"displayName": "Travois Tether",
-			"author": "",
-			"previousAuthors": "",
-			"released": "2025-05-08",
-			"updated": "2025-05-08",
-			"downloadURL": "https://github.com/HAHAYOUDEAD/TravoisTether/releases/latest/download/TravoisTether.dll",
-			"modURL": "https://github.com/HAHAYOUDEAD/TravoisTether",
-			"description": "Prevents travois from despawning",
-			"tags": "travois, despawning, disappearing",
-			"categories": [
-				"Quality of Life",
-				"Misc"
-			],
-			"gameversion": [
-				"tftft"
-			],
-			"images": [
-				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/8b4592ac183a90c85bad0b3dcab19b3723f839a3/pics/TravoisTether.png"
-			],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.40",
-				"mlversion": "0.6.6"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "0.9.6",
 			"name": "GearInfo",
 			"displayName": "Gear Info",
@@ -961,6 +918,7 @@
 		}
 	]
 }
+
 
 
 
