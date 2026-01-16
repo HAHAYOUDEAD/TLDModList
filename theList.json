@@ -561,13 +561,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.4",
+			"version": "1.0.5",
 			"name": "ClothingTweaker2",
 			"displayName": "Clothing Tweaker 2",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2024-10-10",
-			"updated": "2026-01-14",
+			"updated": "2026-01-16",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/ClothingTweaker2/releases/latest/download/ClothingTweaker2.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/ClothingTweaker2",
 			"description": "Clothing Tweaker reimagined. Allows you to edit clothing stats on the go",
@@ -917,6 +917,7 @@
 		}
 	]
 }
+
 
 
 
