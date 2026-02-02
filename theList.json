@@ -873,13 +873,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.0.1",
 			"name": "TimeScaleHotkey",
 			"displayName": "Timescale Hotkey",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2026-01-12",
-			"updated": "2026-01-12",
+			"updated": "2026-02-02",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/TimescaleHotkey/releases/latest/download/TimeScaleHotkey.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/TimescaleHotkey",
 			"description": "Allows you to either speed up or slow down time by pressing a configurable hotkey",
@@ -917,6 +917,7 @@
 		}
 	]
 }
+
 
 
 
