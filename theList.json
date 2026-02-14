@@ -787,13 +787,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "0.9.6",
+			"version": "0.9.7",
 			"name": "GearInfo",
 			"displayName": "Gear Info",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2025-05-26",
-			"updated": "2026-01-13",
+			"updated": "2026-02-14",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/GearInfo/releases/latest/download/GearInfo.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/GearInfo",
 			"description": "Shows additional gear info in your inventory (there's a small (i) button next to gear name)",
@@ -917,6 +917,7 @@
 		}
 	]
 }
+
 
 
 
