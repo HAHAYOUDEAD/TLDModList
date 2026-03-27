@@ -25,8 +25,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/PastimeReading.png",
-				"https://i.imgur.com/ji8mHV2.png"
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/refs/heads/main/pics/PastimeReading.webp"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -68,8 +67,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/Foods.png",
-				"https://i.imgur.com/i3JowEX.png"
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/refs/heads/main/pics/Foods.webp"
 			],
 			"dependencies": [
 				"ModSettings",
@@ -112,7 +110,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/Clothing.png"
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/refs/heads/main/pics/Clothing.webp"
 			],
 			"dependencies": [
 				"ModComponent"
@@ -155,7 +153,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/Jump.png"
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/refs/heads/main/pics/Jump.webp"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -198,8 +196,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/2a5b4216a75eeb1aecbe8e92b5a608263a24e5a5/pics/Personality2.png",
-				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/Personality.png"
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/refs/heads/main/pics/Personality2.webp"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -242,7 +239,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/Silly.png"
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/refs/heads/main/pics/Silly.webp"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -285,7 +282,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/TT-regrow.png"
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/refs/heads/main/pics/TT-regrow.webp"
 			],
 			"dependencies": [
 				"ModSettings",
@@ -329,7 +326,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/TT-corpse.png"
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/refs/heads/main/pics/TT-corpse.webp"
 			],
 			"dependencies": [
 				"ModData"
@@ -372,7 +369,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/TT-fov.png"
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/refs/heads/main/pics/TT-fov.webp"
 			],
 			"dependencies": [],
 			"status": {
@@ -413,7 +410,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/0923f7ff8a687c4914b8e0030c0792a77970395a/pics/TT-outlines.png"
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/refs/heads/main/pics/TT-outlines.webp"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -499,7 +496,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/3617bc12f223b9c4e63c0b5a1a07f1a72bc37107/pics/TT-radialPause.png"
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/refs/heads/main/pics/TT-radialPause.webp"
 			],
 			"dependencies": [],
 			"status": {
@@ -539,7 +536,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/3617bc12f223b9c4e63c0b5a1a07f1a72bc37107/pics/TT-lantern.png"
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/refs/heads/main/pics/TT-lantern.webp"
 			],
 			"dependencies": [],
 			"status": {
@@ -580,7 +577,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/39e8ca8ffb9f766d5b44dbf7cad8bff8e63bcdcd/pics/ClothingTweaker.png"
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/refs/heads/main/pics/ClothingTweaker.webp"
 			],
 			"dependencies": [
 				"ModSettings",
@@ -625,7 +622,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/af81ef357e8411f248ad5866f50a24f771e001dc/pics/Architect.png"
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/refs/heads/main/pics/Architect.webp"
 			],
 			"dependencies": [
 				"ModSettings",
@@ -670,7 +667,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/879c607a09fb9d428bf7784d4e374e39cd6ad30b/pics/TT-goat.png"
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/refs/heads/main/pics/TT-goat.webp"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -715,7 +712,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/29237bf2fd62d8a14528d6281f3c52236ce8ee64/pics/TT-wakeup.png"
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/refs/heads/main/pics/TT-wakeup.webp"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -759,7 +756,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/d67747c798cfae0812ba2b47aa3c63a173205fc6/pics/SCP.png"
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/refs/heads/main/pics/SCP.webp"
 			],
 			"dependencies": [
 				"ModSettings",
@@ -806,7 +803,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/4d56185b662f51df77ee6a0f20ecfcb951530962/pics/GearInfo.png"
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/refs/heads/main/pics/GearInfo.webp"
 			],
 			"dependencies": [
 				"ModSettings",
@@ -849,7 +846,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/refs/heads/main/pics/Sonic.png"
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/refs/heads/main/pics/Sonic.webp"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -891,7 +888,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/refs/heads/main/pics/TimescaleHK.png"
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/refs/heads/main/pics/TimescaleHK.webp"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -927,7 +924,7 @@
 			"downloadURL": "https://github.com/HAHAYOUDEAD/TinyTweaks/releases/latest/download/TinyTweaks-NoSaveOnSprain.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/TinyTweaks",
 			"description": "Prevents autosave when getting a sprain. By default only from walking on slopes, but from falling can be toggled as well",
-			"tags": "sprain, save, autosave",
+			"tags": "tiny tweaks, tinytweaks, tt, sprain, save, autosave",
 			"categories": [
 				"Quality of Life",
 				"Cheats"
