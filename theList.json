@@ -266,16 +266,16 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.3",
+			"version": "1.3.0",
 			"name": "TinyTweaks-RespawnablePlants",
 			"displayName": "Tiny Tweaks: Plants Regrow",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2023-03-12",
-			"updated": "2026-01-05",
+			"updated": "2026-03-27",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/TinyTweaks/releases/latest/download/TinyTweaks-RespawnablePlants.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/TinyTweaks",
-			"description": "Plants will now regrow after 45 days (can be changed)",
+			"description": "Plants will regrow after 45 days (can be changed)",
 			"tags": "tiny tweaks, tinytweaks, tt, plant, harvestable, regrow, respawn",
 			"categories": [
 				"Gameplay",
@@ -310,7 +310,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.3",
+			"version": "1.3.0",
 			"name": "TinyTweaks-BuryHumanCorpses",
 			"displayName": "Tiny Tweaks: Bury Corpses",
 			"author": "",
@@ -353,7 +353,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.3",
+			"version": "1.3.0",
 			"name": "TinyTweaks-ExtendedFOVSlider",
 			"displayName": "Tiny Tweaks: Extended FOV",
 			"author": "",
@@ -394,7 +394,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.3",
+			"version": "1.3.0",
 			"name": "TinyTweaks-MapTextOuline",
 			"displayName": "Tiny Tweaks: Map Text Outline",
 			"author": "",
@@ -437,7 +437,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.3",
+			"version": "1.3.0",
 			"name": "TinyTweaks-DroppedObjectOrientation",
 			"displayName": "Tiny Tweaks: Correct Drop Orientation",
 			"author": "",
@@ -479,7 +479,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.3",
+			"version": "1.3.0",
 			"name": "TinyTweaks-PauseOnRadial",
 			"displayName": "Tiny Tweaks: Pause On Radial",
 			"author": "",
@@ -521,7 +521,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.3",
+			"version": "1.3.0",
 			"name": "TinyTweaks-RunWithLantern",
 			"displayName": "Tiny Tweaks: Run With Lantern",
 			"author": "",
@@ -651,7 +651,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.3",
+			"version": "1.3.0",
 			"name": " TinyTweaks-FallDeathGoat",
 			"displayName": "Tiny Tweaks: Fall Death Goat",
 			"author": "",
@@ -696,13 +696,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.3",
+			"version": "1.3.0",
 			"name": " TinyTweaks-WakeUpCall",
 			"displayName": "Tiny Tweaks: Wakeup Call",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2025-01-12",
-			"updated": "2026-01-05",
+			"updated": "2026-03-27",
 			"downloadURL": "https://github.com/HAHAYOUDEAD/TinyTweaks/releases/latest/download/TinyTweaks-WakeUpCall.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/TinyTweaks",
 			"description": "Allows you to interrupt sleep at will. Has an option to wake up when aurora starts, and a few more",
@@ -841,7 +841,7 @@
 			"downloadURL": "https://github.com/HAHAYOUDEAD/SonicMode/releases/latest/download/SonicMode.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/SonicMode",
 			"description": "Allows you to go fast. Has additional settings for stamina recovery",
-			"tags": "",
+			"tags": "speed, running, walking, fast",
 			"categories": [
 				"Cheats"
 			],
@@ -883,7 +883,7 @@
 			"downloadURL": "https://github.com/HAHAYOUDEAD/TimescaleHotkey/releases/latest/download/TimeScaleHotkey.dll",
 			"modURL": "https://github.com/HAHAYOUDEAD/TimescaleHotkey",
 			"description": "Allows you to either speed up or slow down time by pressing a configurable hotkey",
-			"tags": "",
+			"tags": "speed, time",
 			"categories": [
 				"Cheats"
 			],
@@ -914,14 +914,49 @@
 			"aliases": [
 				"TimeAccelerator"
 			]
+		},
+		{
+			"type": "mod",
+			"version": "1.3.0",
+			"name": "TinyTweaks-NoSaveOnSprain",
+			"displayName": "Tiny Tweaks: No Save On Sprains",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2026-03-27",
+			"updated": "2026-03-27",
+			"downloadURL": "https://github.com/HAHAYOUDEAD/TinyTweaks/releases/latest/download/TinyTweaks-NoSaveOnSprain.dll",
+			"modURL": "https://github.com/HAHAYOUDEAD/TinyTweaks",
+			"description": "Prevents autosave when getting a sprain. By default only from walking on slopes, but from falling can be toggled as well",
+			"tags": "sprain, save, autosave",
+			"categories": [
+				"Quality of Life",
+				"Cheats"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/refs/heads/main/pics/TT-nsos.webp"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
-
-
-
-
-
-
-
-
