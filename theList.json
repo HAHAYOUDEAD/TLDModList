@@ -954,6 +954,51 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "0.3.0",
+			"name": "Randomizer-Transitions",
+			"displayName": "Randomizer: Transitions",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2026-04-15",
+			"updated": "2026-04-15",
+			"downloadURL": "https://github.com/HAHAYOUDEAD/Randomizer/releases/latest/download/Randomizer-Transitions.dll",
+			"modURL": "https://github.com/HAHAYOUDEAD/Randomizer",
+			"description": "Randomizes transisions between scenes. Explore Great Bear in all new chaotic fashion. Enables in new game creation menu",
+			"tags": "randomizer, random, levels",
+			"categories": [
+				"Gameplay",
+				"Overhaul",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/refs/heads/main/pics/Transitions.webp"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.54",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
