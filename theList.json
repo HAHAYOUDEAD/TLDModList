@@ -263,7 +263,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.3.0",
+			"version": "1.3.2",
 			"name": "TinyTweaks-RespawnablePlants",
 			"displayName": "Tiny Tweaks: Plants Regrow",
 			"author": "",
@@ -296,7 +296,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.55",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -307,7 +307,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.3.0",
+			"version": "1.3.2",
 			"name": "TinyTweaks-BuryHumanCorpses",
 			"displayName": "Tiny Tweaks: Bury Corpses",
 			"author": "",
@@ -339,7 +339,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.55",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -350,7 +350,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.3.0",
+			"version": "1.3.2",
 			"name": "TinyTweaks-ExtendedFOVSlider",
 			"displayName": "Tiny Tweaks: Extended FOV",
 			"author": "",
@@ -380,7 +380,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.55",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -391,7 +391,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.3.0",
+			"version": "1.3.2",
 			"name": "TinyTweaks-MapTextOuline",
 			"displayName": "Tiny Tweaks: Map Text Outline",
 			"author": "",
@@ -423,7 +423,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.55",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -434,7 +434,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.3.0",
+			"version": "1.3.2",
 			"name": "TinyTweaks-DroppedObjectOrientation",
 			"displayName": "Tiny Tweaks: Correct Drop Orientation",
 			"author": "",
@@ -463,7 +463,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.55",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -476,7 +476,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.3.0",
+			"version": "1.3.2",
 			"name": "TinyTweaks-PauseOnRadial",
 			"displayName": "Tiny Tweaks: Pause On Radial",
 			"author": "",
@@ -507,7 +507,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.55",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -518,7 +518,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.3.0",
+			"version": "1.3.2",
 			"name": "TinyTweaks-RunWithLantern",
 			"displayName": "Tiny Tweaks: Run With Lantern",
 			"author": "",
@@ -547,7 +547,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.55",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -648,7 +648,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.3.0",
+			"version": "1.3.2",
 			"name": " TinyTweaks-FallDeathGoat",
 			"displayName": "Tiny Tweaks: Fall Death Goat",
 			"author": "",
@@ -680,7 +680,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.55",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -693,7 +693,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.3.0",
+			"version": "1.3.2",
 			"name": " TinyTweaks-WakeUpCall",
 			"displayName": "Tiny Tweaks: Wakeup Call",
 			"author": "",
@@ -725,7 +725,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.55",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -914,7 +914,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.3.0",
+			"version": "1.3.2",
 			"name": "TinyTweaks-NoSaveOnSprain",
 			"displayName": "Tiny Tweaks: No Save On Sprains",
 			"author": "",
@@ -946,7 +946,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.55",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -992,6 +992,48 @@
 			},
 			"testedon": {
 				"tldversion": "2.54",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.3.2",
+			"name": "TinyTweaks-SpeedyInteractions",
+			"displayName": "Tiny Tweaks: Speedy Interactions",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2026-05-08",
+			"updated": "2026-05-08",
+			"downloadURL": "https://github.com/HAHAYOUDEAD/TinyTweaks/releases/latest/download/TinyTweaks-SpeedyInteractions.dll",
+			"modURL": "https://github.com/HAHAYOUDEAD/TinyTweaks",
+			"description": "Adjust any non-animated interaction speed, this includes crafting, repair, harvesting, eating and every other action with a progress circle",
+			"tags": "tiny tweaks, tinytweaks, tt, interaction, speed",
+			"categories": [
+				"Quality of Life"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/HAHAYOUDEAD/TLDModList/refs/heads/main/pics/Speedy.webp"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.55",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
